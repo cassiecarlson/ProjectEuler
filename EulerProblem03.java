@@ -9,7 +9,7 @@ What is the largest prime factor of the number 600851475143 ?
 
 import java.lang.Math;
 
-public class Problem3 {
+public class EulerProblem03 {
 	public static void main(String[] args) {
 		long number = 600851475143L;
 		long out = 0;

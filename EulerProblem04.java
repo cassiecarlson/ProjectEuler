@@ -7,7 +7,7 @@ A palindromic number reads the same both wajs. The largest palindrome made from 
 Find the largest palindrome made from the product of two 3-digit numbers.
 */
 
-public class Problem4 {
+public class EulerProblem04 {
 	public static void main(String[] args) {
 		int product = 9009;
 		String productString = Integer.toString(product);
